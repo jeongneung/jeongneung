@@ -7,11 +7,13 @@
   </a>
 </p>
 
+<!--
 <img
   src="./assets/webshooter.gif"
   width="430"
   alt="Building and experimenting"
 />
+-->
 
 ---
 

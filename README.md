@@ -1,7 +1,7 @@
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=2E9AFE&width=650&lines=Lee+JeongNeung%27s+GitHub+%F0%9F%91%8B"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=2E9AFE&width=650&lines=JeongNeung%27s+GitHub"
       alt="Lee Jeong Neung's GitHub"
     />
   </a>

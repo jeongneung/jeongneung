@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=42&duration=3500&pause=1500&color=FFFFFF&width=420&lines=Lee+Jeong+Neung"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=42&height=70&duration=3500&pause=1500&color=FFFFFF&width=420&lines=Lee+Jeong+Neung"/>
 </p>
 
 ---
